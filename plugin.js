@@ -17,9 +17,9 @@ define(['playbackManager', 'skinManager', 'userSettings', 'pluginManager', 'brow
 
         var self = this;
 
-        self.name = 'Default Skin';
+        self.name = 'Monkeyslaper Emby';
         self.type = 'skin';
-        self.id = 'defaultskin';
+        self.id = 'monkeyslapperemby';
 
         var clockInterval;
         self.load = function () {
